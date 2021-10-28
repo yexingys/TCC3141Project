@@ -8,6 +8,12 @@
 ## Features
 [TBA]
 
+## How to Install
+[TBA]
+
+## How to Use
+[TBA]
+
 ## Extension
 [TBA]
 
