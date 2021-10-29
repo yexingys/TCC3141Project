@@ -1,5 +1,8 @@
 # TCC3141 Assignment: Enhancement of BMI application
-[Introduction: TBA]
+## Introduction 
+Body mass index (BMI) is a calculation of weight and height, calculated as weight in kilograms(kg) divided by the square of height in meters (m). The BMI score will give an indirect measure of body fat to determine that the user may be underweight, healthy weight, overweight or obese. BMI also became a popular choice for user to monitor health condition because is a simple tool for user to calculate and it is inexpensive tool for healthcare. 
+In the other hand, users shall not fully depend on BMI to monitor their health condition, even though is it an alternative to keep track of user’s health condition. Some of the lower number of BMI user might experience in bad health, could be due to having cloth of fats in a certain organ of body that will bring harm to health. And in the other hand, a user with a higher number of BMI does not mean that he is overweight but having a healthy level of fats. 
+
 
 ## Project Objective
 1. To offer a simple mobile application on the cloud that allows users to calculate the Body Mass Index (BMI) by height (in meter) and weight (in kilogram).
