@@ -3,6 +3,8 @@ Body mass index (BMI) is a calculation of weight and height, calculated as weigh
 
 On the other hand, users shall not fully depend on BMI to monitor their health condition, even though is it an alternative to keep track of users’ health conditions. Users could also need to realise that different lifestyle habits and genetic diseases can cause different health problems. Moreover, some articles and studies [3][4][5] points out that particular users that are low BMI might experience bad health, which could be due to having cloth of fats in a certain organ of the body that will bring harm to health. So, the user who has a higher BMI does not mean that is overweight but has a healthy level of fats.
 
+Project Support Period: 2 September 2021 to 2 December 2021.
+
 ## Project Objective
 1. To offer a simple mobile application on the cloud that allows users to calculate the Body Mass Index (BMI) by height (in meter) and weight (in kilogram).
 2. To enhance the user experience and features from provided application source files.
