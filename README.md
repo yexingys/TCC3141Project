@@ -13,10 +13,20 @@ Project Support Period: 2 September 2021 to 2 December 2021.
 [TBA]
 
 ## How to Install
-[TBA]
+1. Install our APK files on your Android smartphone or tablet directly from your browser.
+2. Just open your browser, find the APK file you want to download and tap it. You should be able to see it downloading on the top bar of your device.
+3. Once downloaded, open Downloads, tap on the APK file, and tap Yes when prompted.
+4. The app will begin installing on your device. 
 
 ## How to Use
-[TBA]
+1. Enter username and password to register.
+2. Login with the username and password that registered.
+3. Press the "Start" button to proceed BMI Calculator.
+4. Enter the height and weight.
+5. It will show the BMI result and recommendation.
+6. User can press the "Show" button to compare previous results or the top right "Back" icon to the menu.
+7. User can continue to look out BMI Statistic with BMI curve and BMI distribution at the "Chart".
+8. Don't forget to log out after the record!
 
 ## Extension
 [TBA]
