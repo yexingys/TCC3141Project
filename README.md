@@ -30,7 +30,7 @@ Our application keeps track of the user's daily height and weight by calculating
 
 ## Extension
 ### 1. ChartMaker
-An open source extension for MIT App Inventor to add pie, bar, and line chart through [Google Charts](https://developers.google.com/chart/).You can use this extension by simply downlaoding this [extension file](https://github.com/MillsCS215AppInventorProj/chartmaker/raw/master/edu.mills.appinventor.ChartMaker.aix) and import into your project.
+An open source extension for MIT App Inventor to add pie, bar, and line chart through [Google Charts](https://developers.google.com/chart/).You can use this extension by simply downloading this [extension file](https://github.com/MillsCS215AppInventorProj/chartmaker/raw/master/edu.mills.appinventor.ChartMaker.aix) and import into your project.
 
 #### Example
 We have used ChartMaker and created line chart based on each user's BMI changes over the time and a pie chart that shows the BMI distribution in our system to encourage users to reach and maintain normal BMI.
