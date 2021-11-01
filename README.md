@@ -10,7 +10,7 @@ Project Support Period: 2 September 2021 to 2 December 2021.
 2. To enhance the user experience and features from provided application source files.
 
 ## Features
-[TBA]
+Our application keeps track of the user's daily height and weight by calculating the Body Mass Index (BMI). It allows users to take care and improve their physical condition. The application will also provide some recommendations based on the user's condition to stay in a healthy state. With the recorded BMI, the application can provide previously recorded statistics and generate a BMI curve for the user to easily view the overall condition.
 
 ## How to Install
 1. Install our APK files on your Android smartphone or tablet directly from your browser.
