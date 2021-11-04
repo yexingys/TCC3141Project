@@ -32,7 +32,7 @@ Throughout the development of this project, I have learned how to work as a team
 Content
 
 ### Choong Shin-Yi
-Content
+Throughout the development of this project, I have learned how to work as a team and separate work tasks to meet the requirement in a shorter time. By doing the user interface of the BMI application, I have learned the importance of a good user interface in an application. It not only helps the user to have more interest in the application but it also allows to navigate user in a consistent way, by having the buttons placed in the same place (for example the back button). Lastly, I would like to thank my teammate for being patience with me by guiding me throughout this project.
 
 ### Teh Kah Chung
 Content
