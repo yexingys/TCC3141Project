@@ -44,7 +44,7 @@ We have used ChartMaker and created line chart based on each user's BMI changes 
 For our project management, version control is an excellent way to review the different versions of a file or recall back a specific version. Most importantly, it allows multiple persons to work on the same project at the same time. Here, we use GitHub's own features for version control with the online Git repository. Don't get confused between Git and GitHub! These are two different things. Git is a free open source distributed version control system, while GitHub is an Internet hosting platform for software development.
 
 Back to Git, why did it choose distributed version control systems (DVCS) but no others? It's because DVCS can get each user of their own repository and working copy. Here's a simple overview to understand how DVCS works:
-<p><img src="https://github.com/Chung-Teh/MMU/blob/main/TCC3141/Distributed%20Version%20Control.png" width=512 height=384></p>
+<p><img src="https://user-images.githubusercontent.com/68465992/140318056-11189aa9-24de-485e-babd-962e31cdddc7.png" width=512 height=384></p>
 Each user has a local repository of their own, which replicates the main repository on their hard drive. They can also commit and update their local repository without any conflicts with others. And, if they want to update to the latest changes, they can pull the updated main repository into their local repository and push it into their local copy.
 
 ## License
