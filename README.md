@@ -29,7 +29,7 @@ Our application keeps track of the user's daily height and weight by calculating
 8. Don't forget to log out after the record!
 
 ## Extension
-### 1. ChartMaker
+### ChartMaker
 An open source extension for MIT App Inventor to add pie, bar, and line chart through [Google Charts](https://developers.google.com/chart/).You can use this extension by simply downloading this [extension file](https://github.com/MillsCS215AppInventorProj/chartmaker/raw/master/edu.mills.appinventor.ChartMaker.aix) and import into your project.
 
 #### Example
@@ -39,6 +39,9 @@ We have used ChartMaker and created line chart based on each user's BMI changes 
   <img width="235" alt="Screenshot 2021-11-01 at 2 17 30 PM" src="https://user-images.githubusercontent.com/82799642/139630564-a0d8b2bf-6ca4-4869-a3e2-6407a3bc68e5.png">
   <img width="235" alt="Screenshot 2021-11-01 at 2 17 47 PM" src="https://user-images.githubusercontent.com/82799642/139630568-8d3dfc75-ff63-48e0-996c-926ae925657a.png">
 </p>
+
+## Version Control
+For our project management, version control is an excellent way to review the different versions of a file or recall back a specific version. Most importantly, it allows multiple persons to work on the same project at the same time.
 
 ## License
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
