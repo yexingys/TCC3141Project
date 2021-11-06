@@ -22,6 +22,7 @@ Our application keeps track of the user's daily height and weight by calculating
 3. Once downloaded, go to Downloads folder, and tap on the APK file.
 4. If any required permissions are requested, please allow them. At the bottom, it will pop up the installer window, click Install.
 5. The app will begin installing on your device.
+
 For More Details: [Project Wiki](https://github.com/yexingys/TCC3141Project/wiki)
 
 ## How to Use
@@ -33,6 +34,7 @@ For More Details: [Project Wiki](https://github.com/yexingys/TCC3141Project/wiki
 6. Users can press the "Show" button to compare previous results or the top left icon for back to the menu.
 7. Users can continue to look out the statistics with BMI curve and BMI distribution at the "Chart".
 8. Don't forget to log out after the record!
+
 For More Details: [Project Wiki](https://github.com/yexingys/TCC3141Project/wiki)
 
 ## Extension
