@@ -18,7 +18,7 @@ Our application keeps track of the user's daily height and weight by calculating
 3. Once downloaded, go to Downloads folder, and tap on the APK file.
 4. If any required permissions are requested, please allow them. At the bottom, it will pop up the installer window, click Install.
 5. The app will begin installing on your device.
-6. 
+
 ## How to Use
 1. Enter username and password to register.
 2. Login with the username and password that registered.
