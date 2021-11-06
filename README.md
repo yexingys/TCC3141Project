@@ -12,6 +12,10 @@ Project Support Period: 2 September 2021 to 2 December 2021.
 ## Features
 Our application keeps track of the user's daily height and weight by calculating the Body Mass Index (BMI). It allows users to take care and improve their physical condition. The application will also provide some recommendations based on the user's condition to stay in a healthy state. With the recorded BMI, the application can provide previously recorded statistics and generate a BMI curve and BMI distribution for the user to easily view the overall condition.
 
+## Screenshots
+<p><img src="https://user-images.githubusercontent.com/68465992/140597848-59ee2472-dd95-494b-be67-c5e1c9123303.png" width=360 height=640> <img src="https://user-images.githubusercontent.com/68465992/140598103-2339962f-eb25-48b4-9e31-e6674e848817.png" width=360 height=640></p>
+<p><img src="https://user-images.githubusercontent.com/68465992/140598428-257b05c6-2fae-4e5d-8c39-a22d6c098cf1.png" width=360 height=640> <img src="https://user-images.githubusercontent.com/68465992/140599025-80e349ee-704b-42c3-bc91-ec864e6692fe.png" width=360 height=640></p>
+
 ## How to Install
 1. Download our [APK](https://github.com/yexingys/TCC3141Project/raw/yexingys/MyBMIUSR.apk) file on your Android device or emulator.
 2. You should be able to see it downloading on the top bar of your device.
