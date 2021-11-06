@@ -22,10 +22,10 @@ Our application keeps track of the user's daily height and weight by calculating
 1. Enter username and password to register.
 2. Login with the username and password that registered.
 3. Press the "Start" button to proceed BMI Calculator.
-4. Enter the height and weight.
+4. Enter the height and weight, and press the "Calculate" button.
 5. It will show the BMI result and recommendation.
-6. User can press the "Show" button to compare previous results or the top right "Back" icon to the menu.
-7. User can continue to look out BMI Statistic with BMI curve and BMI distribution at the "Chart".
+6. Users can press the "Show" button to compare previous results or the top left icon for back to the menu.
+7. Users can continue to look out the statistics with BMI curve and BMI distribution at the "Chart".
 8. Don't forget to log out after the record!
 
 ## Extension
