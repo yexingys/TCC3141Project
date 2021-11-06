@@ -12,22 +12,6 @@ Project Support Period: 2 September 2021 to 2 December 2021.
 ## Features
 Our application keeps track of the user's daily height and weight by calculating the Body Mass Index (BMI). It allows users to take care and improve their physical condition. The application will also provide some recommendations based on the user's condition to stay in a healthy state. With the recorded BMI, the application can provide previously recorded statistics and generate a BMI curve and BMI distribution for the user to easily view the overall condition.
 
-## How to Install
-1. Install our APK files on your Android smartphone or tablet directly from your browser.
-2. Just open your browser, find the APK file you want to download and tap it. You should be able to see it downloading on the top bar of your device.
-3. Once downloaded, open Downloads, tap on the APK file, and tap Yes when prompted.
-4. The app will begin installing on your device. 
-
-## How to Use
-1. Enter username and password to register.
-2. Login with the username and password that registered.
-3. Press the "Start" button to proceed BMI Calculator.
-4. Enter the height and weight, and press the "Calculate" button.
-5. It will show the BMI result and recommendation.
-6. Users can press the "Show" button to compare previous results or the top left icon for back to the menu.
-7. Users can continue to look out the statistics with BMI curve and BMI distribution at the "Chart".
-8. Don't forget to log out after the record!
-
 ## Extension
 ### ChartMaker
 An open source extension for MIT App Inventor to add pie, bar, and line chart through [Google Charts](https://developers.google.com/chart/).You can use this extension by simply downloading this [extension file](https://github.com/MillsCS215AppInventorProj/chartmaker/raw/master/edu.mills.appinventor.ChartMaker.aix) and import into your project.
